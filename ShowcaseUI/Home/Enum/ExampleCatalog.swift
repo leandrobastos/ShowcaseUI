@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-//SearchTabView
+
 enum ExampleCatalog {
     static let all: [ExampleModel] = [
         ExampleModel(
